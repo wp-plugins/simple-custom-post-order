@@ -9,7 +9,7 @@ $objects = $scporder_options['objects'];
 
 <?php screen_icon( 'plugins' ); ?>
 
-<h2><?php _e('Intuitive Custom Post Order Settings', 'scporder'); ?></h2>
+<h2><?php _e('Simple Custom Post Order Settings', 'scporder'); ?></h2>
 
 <?php if ( isset($_GET['msg'] )) : ?>
 <div id="message" class="updated below-h2">
