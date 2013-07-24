@@ -4,7 +4,7 @@ Plugin Name: Simple Custom Post Order
 Plugin URI: http://hsameer.com.np/simple-custom-post-order/
 Description: Order Items (Posts, Pages, and Custom Post Types) using a Drag and Drop Sortable JavaScript.
 Version: 1.0
-Author: hsameerc
+Author: Sameer Humagain
 Author URI: http://hsameer.com.np/
 */
  
