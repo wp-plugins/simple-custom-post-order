@@ -28,8 +28,8 @@ An answer to that question.
 
 == Screenshots ==
 
-1. http://hsameer.com.np/wp-content/uploads/2013/07/screenshot.png 
-2. http://hsameer.com.np/wp-content/uploads/2013/07/screenshot1.png
+1. screenshot
+2. screenshot1
 
 == Changelog ==
 
