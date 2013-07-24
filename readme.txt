@@ -1,4 +1,4 @@
-=== SIMPLE CUSTOM POST ORDER ===
+=== Simple Custom Post Order ===
 Contributors: hsameerc
 Tags: custom post order, post order, custom post type order, order post, order posts, post order, posts order
 Requires at least: 3.0.0
