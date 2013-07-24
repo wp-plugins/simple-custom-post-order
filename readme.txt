@@ -28,8 +28,8 @@ An answer to that question.
 
 == Screenshots ==
 
-1. screenshot
-2. screenshot1
+1. screenshot-1
+2. screenshot-2
 
 == Changelog ==
 
