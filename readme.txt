@@ -12,7 +12,7 @@ Order posts(posts, any custom post types) using a Drag and Drop Sortable JavaScr
 == Description ==
 
 Order posts(posts, any custom post types) using a Drag and Drop Sortable JavaScript. Configuration is unnecessary. You can do directly on default WordPress administration.
-Excluding custom query which uses ‘order’ or ‘orderby’ parameters, in ‘get_posts’ or ‘query_posts’ and so on.
+Excluding custom query which uses order or orderby parameters, in get_posts or query_posts and so on.
 
 == Installation ==
 
