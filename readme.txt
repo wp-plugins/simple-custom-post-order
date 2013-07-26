@@ -1,6 +1,6 @@
 === SIMPLE CUSTOM POST ORDER ===
 Contributors: hsameerc
-Tags: custom post order, post order, js post order, page order
+Tags: custom post order, post order, js post order, page order, taxonomy order, posts order, category order, sort posts, sort pages, sort custom posts
 Requires at least: 3.0.0
 Tested up to: 3.5.1
 Stable tag: 3.5.1
