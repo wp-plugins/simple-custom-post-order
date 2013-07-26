@@ -1,4 +1,4 @@
-=== SIMPLE CUSTOM POST ORDER ===
+=== Simple Custom Post Order ===
 Contributors: hsameerc
 Tags: custom post order, post order, js post order, page order, taxonomy order, posts order, category order, sort posts, sort pages, sort custom posts
 Requires at least: 3.0.0
