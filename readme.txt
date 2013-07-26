@@ -1,6 +1,6 @@
-=== Simple Custom Post Order ===
+=== SIMPLE CUSTOM POST ORDER ===
 Contributors: hsameerc
-Tags: custom post order, post order, custom post type order, order post, order posts, post order, posts order
+Tags: custom post order, post order, js post order, page order
 Requires at least: 3.0.0
 Tested up to: 3.5.1
 Stable tag: 3.5.1
@@ -17,8 +17,7 @@ Excluding custom query which uses order or orderby parameters, in get_posts or q
 == Installation ==
 
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+1. Activate the plugin through the 'Plugins' menu in WordPress 
 
 == Frequently asked questions ==
 
@@ -32,11 +31,12 @@ An answer to that question.
 2. screenshot-2
 
 == Changelog ==
+= Version 1.0 (20-07-2013) =
+*  Initial release.
 
+= Version 1.5 (25-07-2013) =
+*  Fix : fix errors
+*  Added Taxonomy Sort
+*  Added Taxonomy Sort option In setting Page
 
-
-== Upgrade notice ==
-
-
-
-== Arbitrary section 1 ==
+  

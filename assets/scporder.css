@@ -1,3 +1,4 @@
+.wp-list-table.tags td:hover{ cursor: move; }
 .ui-sortable tr:hover {
 	cursor: move;
 }
