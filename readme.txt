@@ -2,8 +2,8 @@
 Contributors: hsameerc
 Tags: custom post order, post order, js post order, page order, taxonomy order, posts order, category order, sort posts, sort pages, sort custom posts
 Requires at least: 3.0.0
-Tested up to: 3.5.1
-Stable tag: 3.5.1
+Tested up to: 3.7.1
+Stable tag: 3.7.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,5 +38,9 @@ An answer to that question.
 *  Fix : fix errors
 *  Added Taxonomy Sort
 *  Added Taxonomy Sort option In setting Page
+
+= Version 2.0 (22-11-2013) =
+* Fixed Undefined Notice Error in wp version 3.7.1
+* Taxonomy Activate Checkbox removed.
 
   
