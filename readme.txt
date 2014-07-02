@@ -2,8 +2,8 @@
 Contributors: hsameerc
 Tags: custom post order, post order, js post order, page order, posts order, category order, sort posts, sort pages, sort custom posts
 Requires at least: 3.0.0
-Tested up to: 3.8
-Stable tag: 3.8
+Tested up to: 3.9.1
+Stable tag: 3.9.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
