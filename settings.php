@@ -92,8 +92,8 @@ $scporder_tags = isset($scporder_options['tags']) ? $scporder_options['tags'] : 
         </p>
 
     </form>
-    <h3>Buy me a Coffee :)</h3>
-    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <h3>Buy me a Coffee to keep me awake :)</h3>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
         <input type="hidden" name="cmd" value="_donations">
         <input type="hidden" name="business" value="humagainsameer@gmail.com">
         <input type="hidden" name="lc" value="US">
